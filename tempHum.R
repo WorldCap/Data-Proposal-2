@@ -1,0 +1,1 @@
+plot(tempHum$Relative.Humidity, tempHum$Temperature, xlab = "Humidity", ylab = "Temperature", main = "Detroit (Hourly)")
